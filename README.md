@@ -1,4 +1,10 @@
-# Data-Science-Project
+# Data-Science-Projects
 
-This repository compiled a few of my work involves Machine Learning model, Natural Language Processing project, and predictive marketing analytics. 
+This repository presents a few of my work involves building machine learning model with statistcal methods such as logistic regression, using natural language process method to analyze text, and web scraping to understand market conditions. 
+
+## Web Scraping LinkedIn
+This was an intern project with Prisme, Inc. My main responsbility was to write Python codes to web scrape LinkedIn job posting information such as title, location, description, company name, posted at, etc. With the available data, I use natural language process (e.g. Bag of words) to analyze the existing job market particularly for "Data Analyst/Scientist" and directly report to the CEO of the company. 
+
+
+
 
