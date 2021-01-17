@@ -11,4 +11,6 @@ This individual project showcases my well-rounded understanding of a predictive 
 ## Natural Language Processing
 This is a series of mini-project which demonstrated my application of Natural Language process with statistical methods to perform text analysis using Python. In this project, TFIDF, Bag of Words, Ensemble methods, and feature engineering were used individually with my experimentation of whichever lead to the best result. 
 
+## Social Network Analysis 
+This is an investigation of product line's social structures through the use of networks and graph theory using R language. By examining the closeness & betweenness and network structure, we are able to find the product that has the most control over the network; hence, more information will pass through that node. Thereby, establishing an understanding that using that product to promote will likely be more efficient. 
 
